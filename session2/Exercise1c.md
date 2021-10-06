@@ -22,7 +22,7 @@ That way we can control which parts of a page a user sees depending upon their p
 In our next example, we are going to store a list of names in the session object.
 Our JSP will add and remove names from the list but because the list is stored in the session, each user will have a unique list and will not be able to see anyone else's list.
 
-In your existing project, create a new JSP called jspexample2.jsp and paste in the following content.
+In your existing project, create a new JSP called jspexample3.jsp and paste in the following content.
 
 ```
 <%-- 
