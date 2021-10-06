@@ -1,0 +1,50 @@
+06-Oct-2021 15:11:55.257 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.48
+06-Oct-2021 15:11:55.260 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 10 2021 09:22:01 UTC
+06-Oct-2021 15:11:55.260 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.48.0
+06-Oct-2021 15:11:55.260 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+06-Oct-2021 15:11:55.260 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+06-Oct-2021 15:11:55.260 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+06-Oct-2021 15:11:55.260 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\AdoptOpenJDK\jdk-8.0.282.8-hotspot\jre
+06-Oct-2021 15:11:55.260 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_282-b08
+06-Oct-2021 15:11:55.261 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            AdoptOpenJDK
+06-Oct-2021 15:11:55.261 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\5islaj05\Documents\solent2Public\myPracticeCourseWork\session2\tomcatConfig
+06-Oct-2021 15:11:55.261 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\devel\tomcat\apache-tomcat-9.0.48
+06-Oct-2021 15:11:55.262 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\5islaj05\Documents\solent2Public\myPracticeCourseWork\session2\tomcatConfig\conf\logging.properties
+06-Oct-2021 15:11:55.262 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+06-Oct-2021 15:11:55.262 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|W65147
+06-Oct-2021 15:11:55.262 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+06-Oct-2021 15:11:55.262 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+06-Oct-2021 15:11:55.262 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+06-Oct-2021 15:11:55.262 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\5islaj05\Documents\solent2Public\myPracticeCourseWork\session2\tomcatConfig
+06-Oct-2021 15:11:55.262 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\devel\tomcat\apache-tomcat-9.0.48
+06-Oct-2021 15:11:55.262 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\5islaj05\Documents\solent2Public\myPracticeCourseWork\session2\tomcatConfig\temp
+06-Oct-2021 15:11:55.304 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.30] using APR version [1.7.0].
+06-Oct-2021 15:11:55.304 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+06-Oct-2021 15:11:55.304 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+06-Oct-2021 15:11:55.321 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1k  25 Mar 2021]
+06-Oct-2021 15:11:56.078 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+06-Oct-2021 15:11:56.116 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1107] milliseconds
+06-Oct-2021 15:11:56.147 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+06-Oct-2021 15:11:56.147 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.48]
+06-Oct-2021 15:11:56.163 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\5islaj05\Documents\solent2Public\myPracticeCourseWork\session2\tomcatConfig\conf\Catalina\localhost\manager.xml]
+06-Oct-2021 15:11:58.300 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\5islaj05\Documents\solent2Public\myPracticeCourseWork\session2\tomcatConfig\conf\Catalina\localhost\manager.xml] has finished in [2,137] ms
+06-Oct-2021 15:11:58.300 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\5islaj05\Documents\solent2Public\myPracticeCourseWork\session2\tomcatConfig\conf\Catalina\localhost\ROOT.xml]
+06-Oct-2021 15:11:58.300 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [] in deployment descriptor [C:\Users\5islaj05\Documents\solent2Public\myPracticeCourseWork\session2\tomcatConfig\conf\Catalina\localhost\ROOT.xml] has been ignored
+06-Oct-2021 15:11:58.334 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\5islaj05\Documents\solent2Public\myPracticeCourseWork\session2\tomcatConfig\conf\Catalina\localhost\ROOT.xml] has finished in [34] ms
+06-Oct-2021 15:11:58.342 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+06-Oct-2021 15:11:58.418 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [2301] milliseconds
+06-Oct-2021 15:12:25.712 INFO [http-nio-8080-exec-9] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\5islaj05\Documents\solent2Public\myPracticeCourseWork\session2\tomcatConfig\conf\Catalina\localhost\webexercise1.xml]
+06-Oct-2021 15:12:25.712 WARNING [http-nio-8080-exec-9] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/webexercise1] in deployment descriptor [C:\Users\5islaj05\Documents\solent2Public\myPracticeCourseWork\session2\tomcatConfig\conf\Catalina\localhost\webexercise1.xml] has been ignored
+06-Oct-2021 15:12:25.759 INFO [http-nio-8080-exec-9] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\5islaj05\Documents\solent2Public\myPracticeCourseWork\session2\tomcatConfig\conf\Catalina\localhost\webexercise1.xml] has finished in [47] ms
+06-Oct-2021 15:12:25.774 INFO [http-nio-8080-exec-10] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/webexercise1]] after start() had already been called. The second call will be ignored.
+06-Oct-2021 15:12:26.410 INFO [http-nio-8080-exec-7] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/webexercise1]
+06-Oct-2021 15:12:26.457 INFO [http-nio-8080-exec-5] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\5islaj05\Documents\solent2Public\myPracticeCourseWork\session2\tomcatConfig\conf\Catalina\localhost\webexercise1.xml]
+06-Oct-2021 15:12:26.457 WARNING [http-nio-8080-exec-5] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/webexercise1] in deployment descriptor [C:\Users\5islaj05\Documents\solent2Public\myPracticeCourseWork\session2\tomcatConfig\conf\Catalina\localhost\webexercise1.xml] has been ignored
+06-Oct-2021 15:12:26.495 INFO [http-nio-8080-exec-5] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\5islaj05\Documents\solent2Public\myPracticeCourseWork\session2\tomcatConfig\conf\Catalina\localhost\webexercise1.xml] has finished in [38] ms
+06-Oct-2021 15:12:26.495 INFO [http-nio-8080-exec-9] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/webexercise1]] after start() had already been called. The second call will be ignored.
+06-Oct-2021 15:15:30.442 INFO [http-nio-8080-exec-12] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/webexercise1]
+06-Oct-2021 15:15:30.469 INFO [http-nio-8080-exec-13] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\5islaj05\Documents\solent2Public\myPracticeCourseWork\session2\tomcatConfig\conf\Catalina\localhost\webexercise1.xml]
+06-Oct-2021 15:15:30.469 WARNING [http-nio-8080-exec-13] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/webexercise1] in deployment descriptor [C:\Users\5islaj05\Documents\solent2Public\myPracticeCourseWork\session2\tomcatConfig\conf\Catalina\localhost\webexercise1.xml] has been ignored
+06-Oct-2021 15:15:30.527 INFO [http-nio-8080-exec-13] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\5islaj05\Documents\solent2Public\myPracticeCourseWork\session2\tomcatConfig\conf\Catalina\localhost\webexercise1.xml] has finished in [58] ms
+06-Oct-2021 15:15:30.527 INFO [http-nio-8080-exec-14] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/webexercise1]] after start() had already been called. The second call will be ignored.
+06-Oct-2021 15:20:38.961 INFO [Catalina-utility-1] org.apache.catalina.users.MemoryUserDatabase.backgroundProcess Reloading memory user database [UserDatabase] from updated source [file:/C:/Users/5islaj05/Documents/solent2Public/myPracticeCourseWork/session2/tomcatConfig/conf/tomcat-users.xml]
